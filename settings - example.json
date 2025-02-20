@@ -1,0 +1,36 @@
+{
+  "Schedules": [
+    {
+      "ChildName": "Bob",
+      "DailySchedules": [
+        {
+          "Day": "Friday",
+          "Sessions": [
+            {
+              "Start": "08:50:00",
+              "End": "12:25:00",
+              "SessionRate": 0,
+              "HourlyRate": 6.5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ChildName": "Alice",
+      "DailySchedules": [
+        {
+          "Day": "Tuesday",
+          "Sessions": [
+            {
+              "Start": "15:15:00",
+              "End": "17:30:00",
+              "SessionRate": 0,
+              "HourlyRate": 6.5
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
